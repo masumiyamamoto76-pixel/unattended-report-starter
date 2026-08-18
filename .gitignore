@@ -1,0 +1,6 @@
+# 実行時の生成物はコミットしない（各自が make_dummy_orders.py から再現する）
+data/
+output/
+logs/
+__pycache__/
+*.pyc
