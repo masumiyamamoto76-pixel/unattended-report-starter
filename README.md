@@ -7,7 +7,7 @@
 - レポート本体と「見張り役」を分離し、壊れたらWindowsトースト通知で気づける
 - データはすべて乱数生成のダミー。実在の企業・取引とは無関係
 
-解説記事: ★URL差し替え（公開ボタン前に必須）—— Zenn記事の公開URLをここに記載
+解説記事: https://zenn.dev/masumiyamamoto76-pixel/articles/unattended-daily-report-windows
 
 ## 構成（3ファイル）
 
